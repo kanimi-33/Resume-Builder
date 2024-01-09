@@ -1,7 +1,6 @@
 #### Hey there, 
 This is a Resume Building Project Built using ReactJS
 
-#### Did this while Learning React ([Youtube Totorial](https://www.youtube.com/watch?v=U-kyLCq0PQw))
 
 #### Features:
 * User can change the color of Resume
